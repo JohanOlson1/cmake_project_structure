@@ -1,7 +1,7 @@
 # cmake_project_structure
 - A relatively simple project strucure that satisfy most C++ project necessities <br>
 
-## executables
+## applications
 - More applications can be added under here. <br> 
 - The existing applications can also be compiled as different targets, where they include different libraries. <br>
 
